@@ -1,0 +1,1 @@
+{"description":"节点状态页：实时检测 RackNerd / Pxxl / Cloady 三条代理线是否存活","engines":{"node":">=18"},"main":"server.js","name":"proxy-status","scripts":{"start":"node server.js"},"version":"1.0.0"}
